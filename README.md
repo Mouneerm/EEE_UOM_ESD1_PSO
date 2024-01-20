@@ -65,4 +65,51 @@ Module Row Spacing $= 0.34/(Tan (28)) = 0.64 m$
 Minimum Row Spacing = Module row spacing × Cos (Azimuth angle) $= 0.64 × Cos (50) = 0.41 m $
 
 
+## Final System Design and Modelling
 
+
+For modelling purposes, the dimensions of the rooftop were considered. Data gathered were from google Map and a model is impelemented in Fusion 360.
+
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/ed15f93e-ed07-4719-b343-5306197d1a44)
+
+
+#### Design of a Support for PV Panels
+
+The Support was designed on Fusion 360 with the following specifications:
+1.	The PV panel should be inclined 20 degrees towards the north for maximum efficiency.
+2.	The PV panels should be able to fit into the mount.
+3.	The mount should have a height of 1m to minimize shadowing effects from structural objects on the roof of the engineering tower.
+4.	The support must have holes to be cascaded with other supports and to be fixed on the concrete ceiling of the engineering tower.
+5.	The support must be able to handle the load of the PV cell (180N) (made of stainless steel.).
+The support must be able to withstand cyclonic gusts up to 250km/h.
+
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/2a7202a0-90f9-4e6b-b5b7-3d23549882e4)
+
+
+
+#### Static Stress of the PV Support
+
+From the meteorological data available in Mauritius, the maximum cyclonic wind speed that the support must be able to withstand is slightly overestimated to be up to 250Km/h (70m/s).
+
+Hence the stand should be able to withstand a force of 170KN as shown below:
+
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/2419648c-6672-454c-9a52-d831c7c55927)
+
+#### Design of the Support for the inverter
+
+The Support was designed with the following specifications:
+1.	It should fit the inverter. 
+2.	Holes should be present to allow electrical wiring to enter and leave the inverter.
+3.	The inverter should be protected from rainwater.
+4.	The inverter must not be enclosed to prevent overheating issues.
+
+The inverter has a length of 70.6cm, width of 26.8 cm and a height of 735cm. It would be made of stainless steel.
+
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/eb29656c-5e0c-4490-befb-636427b54557)
+
+#### Final Design
+
+It shall be noted that the floor leading up to the rooftop of the Engineering tower was taken into account (Blue Line) so as to avoid shading effects. Furthermore, the Wind turbine are place closed to or at the concrete column of the building to avoid massive stress on the rooftop. The Red Panels give indication of where the Inverters would be placed (Below PV support Stands).
+Note that when taking shading into consideration, the amount of PV modules have been capped to 120 instead of 180.
+
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/96498e1b-44ea-47f7-8dac-5d722296b2a4)
