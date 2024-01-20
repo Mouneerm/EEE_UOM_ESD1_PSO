@@ -19,7 +19,8 @@ The PSO (Particle Swarm Optimization) is an algorithm which can be used to find 
  
 Costing for Wind Turbine using PSO
 
-![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/6f5ca8ba-ac76-4b22-9bae-b46519d8bf1a)
+![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/fe915724-b600-45f2-bd7d-562d58b2026b)
+
 
 
 The simulation results also show that only one wind turbine (Eocycle EO10) can be used.
