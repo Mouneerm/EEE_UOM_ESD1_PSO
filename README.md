@@ -110,7 +110,7 @@ The inverter has a length of 70.6cm, width of 26.8 cm and a height of 735cm. It 
 
 #### Final Design
 
-It shall be noted that the floor leading up to the rooftop of the Engineering tower was taken into account (Blue Line) so as to avoid shading effects. Furthermore, the Wind turbine are place closed to or at the concrete column of the building to avoid massive stress on the rooftop. The Red Panels give indication of where the Inverters would be placed (Below PV support Stands).
+It is to be noted that the floor leading up to the rooftop of the Engineering tower was taken into account (Blue Line) so as to avoid shading effects. Furthermore, the Wind turbine are place closed to or at the concrete column of the building to avoid massive stress on the rooftop. The Red Panels give indication of where the Inverters would be placed (Below PV support Stands).
 Note that when taking shading into consideration, the amount of PV modules have been capped to 120 instead of 180.
 
 ![image](https://github.com/Mouneerm/EEE_UOM_ESD1_PSO/assets/45911394/96498e1b-44ea-47f7-8dac-5d722296b2a4)
