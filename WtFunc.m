@@ -1,5 +1,5 @@
 % Optimizatoin function for wind turbines
-% Written by Mouneer 25/01/2021
+% Written by Jhevish 25/01/2021
 
 function Total_cost=WtFunc(A)
     Demand = 54;
