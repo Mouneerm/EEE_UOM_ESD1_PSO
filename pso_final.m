@@ -2,7 +2,7 @@
 
 %% Problem Definition
 % PSO alorithm implementation in Matlab
-% Written by Mouneer, Siddharth and Ajmal Jan 2021
+% Written by Mouneer and Jhevish 2021
 
 % Swap cost function to optimize for Wind Turbines
 CostFunction=@(A) PvFunc(A);        % Cost Function
