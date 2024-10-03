@@ -1,6 +1,6 @@
 
 % Optimizatoin function for solar arrays
-% Written by Jhevish and Mouneer 25/01/2021
+% Written by Jhevish Ramphul and Mouneer Mahomed 25/01/2021
 
 function units=PvFunc(A)
     Budget= 50750+49000+4750*30;
