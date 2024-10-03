@@ -1,5 +1,5 @@
 # EEE_UOM_ESD1_PSO
-#Group work of Jhevish and Mouneer
+#Group work of Jhevish Ramphul and Mouneer Mahomed
 
 This project is based on the implementation of a hybrid PV/wind system which is going to be installed on the Engineering Tower building of the University of Mauritius. Different technical, economical and environmental performances have been studied for the different possible optimisation and implementation of the hybrid PV/Wind system. Based on those studies, the best design solution has been proposed for the implementation. 
 The data required for the implementation such as load consumption of the Engineering Tower building, wind speed and solar irradiance was collected and after taking into consideration the possible constraints and specifications, optimisation solutions were generated from software such as HOMER, iHOGA and Particle Swarm Optimization (PSO). The final solution was then modelled on Fusion 360 software.
